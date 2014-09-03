@@ -40,6 +40,8 @@ gem 'simplecov'
 gem 'ace-rails-ap'
 gem 'rake'
 
+gem 'ransack'
+
 
 
 # Use unicorn as the app server

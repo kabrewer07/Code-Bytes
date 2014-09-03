@@ -142,10 +142,14 @@ nav li {
 }
 
 #snippet_search {
-  position: absolute;
+  position: relative;
   right: 0;
-  padding-top: 25px;
-  width: 330px;
+  padding-top: 15px;
+  width: 600px;
+  margin:0 auto 20px;
+}
+#snippet_search input {
+  margin-bottom:10px;
 }
 
 .star {
